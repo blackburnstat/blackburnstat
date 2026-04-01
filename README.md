@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Blackburn. I am a transport statistician at UNECE.
 - 👀 I’m interested in trains, ships, buses, lorries, and bikes and how to map them. 
-- 🌱 I’m currently learning R, and particularly R geospatial.
+- 🌱 I’m particularly interested in R geospatial.
 - 📫 You can email me at BlackburnA {at} un.org. Cars ruin cities!
 
 <!---
